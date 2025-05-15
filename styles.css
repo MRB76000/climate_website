@@ -1,0 +1,39 @@
+html{
+    color:rgba(255, 255, 255, 0.916);
+    background-color: rgb(16, 35, 25);
+    
+}
+
+#container{
+   
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+
+    
+}
+.box{
+    
+    background-color: rgba(55, 110, 62, 0.31);
+    border-radius: 15px;
+    width: 40vw;
+    height: 50vh;
+    margin: 50px;
+    box-shadow: 3px 3px 3px 3px rgba(13, 24, 14, 0.776);
+    text-align: center;
+    
+    
+}
+
+.box h2{
+    position: relative;
+    top: -60px;
+    
+}
+
+li{
+    text-align: left;
+}
