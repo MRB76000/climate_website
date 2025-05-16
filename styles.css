@@ -178,10 +178,50 @@ margin: auto;
 }
 
 
-#jf{
+.jf{
     display: block;
     margin: auto;
     margin-top: 200px;
     margin-bottom: 100px;
+    border-radius: 20px;
 
 }
+
+.sans{
+    width: 70vw;
+    margin: auto;
+    line-height: 150%;
+    font-size: x-large;
+    text-align: center;
+
+}
+
+
+
+#footer{
+
+    padding-top: 30px;
+    padding-bottom: 5px;
+    text-align: center;
+   
+}
+
+#foooter{
+    padding-top: 30px;
+    padding-bottom: 5px;
+    text-align: center;
+    position: absolute;
+    left: 46vw;
+    bottom: 5px;
+}
+
+a{
+    color: aliceblue;
+    
+}
+
+a:hover{
+    color: rgb(147, 147, 213);
+}
+
+
