@@ -198,7 +198,7 @@ margin: auto;
 
 
 
-#footer{
+footer{
 
     padding-top: 30px;
     padding-bottom: 5px;
@@ -206,14 +206,7 @@ margin: auto;
    
 }
 
-#foooter{
-    padding-top: 30px;
-    padding-bottom: 5px;
-    text-align: center;
-    position: absolute;
-    left: 46vw;
-    bottom: 5px;
-}
+
 
 a{
     color: aliceblue;
